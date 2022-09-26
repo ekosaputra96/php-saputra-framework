@@ -2,3 +2,12 @@
   padding: 0;
   margin: 0;
 }
+
+.margin-top {
+  margin-top: 4rem !important;
+}
+
+sup {
+  color: red;
+  font-size: 1rem;
+}

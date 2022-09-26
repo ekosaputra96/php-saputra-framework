@@ -9,4 +9,6 @@ define("APPROOT", dirname(dirname(__FILE__)));
 // url root
 define("URLROOT", "http://localhost/saputra-framework");
 // site name
-define("SITENAME", "EkoMVC");
+define("SITENAME", "SharePosts");
+// app version
+define("VERSION", "1.0.0");
